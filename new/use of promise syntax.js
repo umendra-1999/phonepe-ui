@@ -15,7 +15,7 @@ setTimeout(function(){
 data=getdata();
 
 if(data){
-    resolve('sweets');
+    resolve('sweet');
 }
 else{
     reject('chappal');
