@@ -6,4 +6,4 @@ function multi(arr1,arr2){
     }
     console.log(newrr)
 }
-multi([12,34,6,7,2],[2,2,3,8,10])
+multi([12,34,6,7,2],[89,2,3,8,10])
