@@ -20,7 +20,7 @@ console.log(arr)
 let amazon=[
     {name:"iphone",price:70000,rating:4.5},
     {name:"mackbook",price:50000,rating:4},
-    {name:"airpods",price:6543,rating:3.6},
+    {name:"airpods",price:6553,rating:3.6},
     {name:"xbox",price:10000,rating:5}
 ]
 let sum=0;
