@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #container{
+            width: 100%;
+            display: grid;
+            grid-template-columns: repeat(3,1fr);
+            
+            
+            
+        }
+        
+        img{
+            width:25%;
+        } 
+        #day{
+            width: 100%;
+            
+            margin-bottom: 40px;
+            font-size: xx-large;
+            color: white;
+            background-color: blue;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+        }
+        button{
+            margin-bottom: 30px;
+            background-color: rgb(24, 24, 75);
+            color: antiquewhite;
+        }
+    </style>
+</head>
+<body>
+<h1 id="day" >deal of the day</h1>
+
+<button onclick="sortlh()">low to high</button>
+<button onclick="sorthl()">high to low</button>
+
+    <div id="container"></div> 
+</body>
+<script src="deal of the day.js"></script>
+</html>
