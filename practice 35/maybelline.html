@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #container{
+            width: 100%;
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            background-color: grey;
+        }
+        img{
+            width: 20%;
+            margin-left: 70px;
+            border: 2px double black;
+            
+        }
+
+        p{
+            width: fit-content;
+            font-weight: bolder;
+            margin-left: 80px;
+            color: silver;
+            background-color:black;
+        
+        }
+        h1{
+            margin-left: 400px;
+        }
+        button{
+            margin-bottom: 50px;
+            background-color: black;
+            color: SILVER;
+        }
+    </style>
+</head>
+<body>
+    <h1>maybelline styling products..</h1>
+    <button onclick="sortlh()">low to high</button>
+    <button onclick="sorthl()">high to low</button>
+    <div id="container"></div>
+
+</body>
+
+<script src="maybelline.js"></script>
+</html>
