@@ -1,0 +1,65 @@
+.container{
+    width: 20%;
+    
+}
+
+#m1{
+    width: 170%;
+   position: relative;right: 70px;
+}
+#m2{
+    width: 100%;
+}
+#m3{
+    width: 80%;
+}
+#m4{
+    width: 100%;
+}
+#m5{
+    width: 80%;
+}
+#m6{
+    width: 80%;
+}
+#m7{
+    width: 80%;
+}
+#m8{
+    width: 110%;
+}
+#m9{
+    width: 80%;
+}
+#m10{
+    width: 80%;
+}
+#m11{
+    width: 90%;
+}
+
+
+.m{
+    
+    margin-top: 20px;
+    
+
+}
+#ph{
+    
+    padding:none;
+    color: white;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+#srch{
+    width: 30%;
+    height: 20px;
+    position: relative;left: 90px;top: 30px;
+}
+
+.sr{
+    display: flex;
+    background-color: blue;
+}
