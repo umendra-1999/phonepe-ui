@@ -1,6 +1,6 @@
 let web20={
-    batch:2022,
-    track:'unit 3',
+    batch:2023,
+    track:'unit 5',
     course:'js',
     type:'web devlopment',
 
