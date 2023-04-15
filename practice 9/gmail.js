@@ -2,7 +2,7 @@ let email="abc123@gmail.com";
 let pass="abcd1234";
 
 let input_email=prompt("enter the email")
-let input_pass=prompt("enter the password")
+let input_pass=prompt("enter the  correct password")
 
 if(email==input_email){
     if(pass==input_pass){
