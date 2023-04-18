@@ -14,7 +14,7 @@ console.log(x)
 
 // in map it will return values in console
 
-let sweet=["kaju","laddu","khoya","rasgulla"]
+let sweet=["kaju","kalajaam","khoya","rasgulla"]
 // yaha par hame ek khalui array ki jarurat nahi h map me direct le lega
 
 let y=sweet.map(function(ele,i){
