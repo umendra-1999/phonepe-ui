@@ -20,7 +20,7 @@ if(a>b){
 
 let g=60;
 let h=21;
-let k=100;
+let k=200;
 let l=13;
 
 if(g>h&&k>l){
