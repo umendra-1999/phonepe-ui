@@ -66,7 +66,7 @@ let ages=prompt("Enter the age") ;
 ages=Number.parseInt(ages);
 
 
-if((genders=="males"&&ages>=23)||(genders=="females"&&ages>=20))
+if((genders=="males"&&ages>=24)||(genders=="females"&&ages>=20))
 {
     console.log(genders,"is elligible for ride");
 }
