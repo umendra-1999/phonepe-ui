@@ -68,7 +68,7 @@ ages=Number.parseInt(ages);
 
 if((genders=="males"&&ages>=24)||(genders=="females"&&ages>=20))
 {
-    console.log(genders,"is elligible for ride");
+    console.log(genders,"is elligible for horse  ride");
 }
 else{
     console.log(genders,"is not elligible");
