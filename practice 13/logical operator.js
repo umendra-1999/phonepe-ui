@@ -35,7 +35,7 @@ else{
 
 //using OR operator
 
-console.log((5>=6&&8<=6)&&(9>4||9<=6))
+console.log((5>=6&&8<=6)&&(9>5||9<=6))
 
 
 
