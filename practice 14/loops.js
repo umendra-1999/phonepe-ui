@@ -12,7 +12,7 @@ while(i<n)
 
 //using do while loop
 
-let d=7;
+let d=8;
 let k=0;
 do{
     console.log(k)
