@@ -24,5 +24,5 @@ while(k<d)
 //using for loop
 
 for(let o=0;o<5;o++){
-    console.log("hello world")
+    console.log("hello india")
 }
