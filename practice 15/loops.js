@@ -23,6 +23,6 @@ while(k<d)
 
 //using for loop
 
-for(let o=0;o<5;o++){
+for(let o=0;o<7;o++){
     console.log("hello world")
 }
