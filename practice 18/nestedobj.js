@@ -5,7 +5,7 @@ let details={
         city:"lucknow",
         street:"456",
         house:"400",
-        pin:"475912"
+        pin:"45912"
     }
 };
 console.log(details.address)//is syntax ke through ham address par pahuch jayenge
