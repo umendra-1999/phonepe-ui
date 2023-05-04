@@ -2,7 +2,7 @@ let details={
     name:"umendra",
     age:24,
     address:{
-        city:"lucknow",
+        city:"mumbai",
         street:"456",
         house:"400",
         pin:"45912"
