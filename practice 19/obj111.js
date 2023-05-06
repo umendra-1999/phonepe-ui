@@ -1,4 +1,4 @@
-let arr=[7,7,6,5,5,4,74,4,8,21,34,32];
+let arr=[7,7,6,5,5,4,74,4,8,21,34];
 let obj={};
 for(let i=0;i<arr.length-1;i++){
     let one=arr[i];
