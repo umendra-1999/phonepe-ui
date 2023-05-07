@@ -2,7 +2,7 @@ let obj={
     name:"umendra",
     class:12,
     age:24,
-    location:"lucknow",
+    location:"amethi",
     state:"uttar pradesh"
 }
 obj.class="bca"; //how to update something in an object
