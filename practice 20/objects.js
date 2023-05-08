@@ -11,7 +11,7 @@ console.log(obj)
 
 let detail={
     hobbies:['biking','basketball','volleyball','music'],
-    name:"umendra",
+    name:"umendrapratap",
     area:"mahanagar",
     pin:226006,
 };
