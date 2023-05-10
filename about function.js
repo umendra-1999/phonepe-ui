@@ -24,7 +24,7 @@ function cons(v,b){
     console.log(v*b);
 }
 
-cons(8,9);
+cons(8,10);
 
 
 function eatbreakfast(item){
