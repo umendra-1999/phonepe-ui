@@ -39,7 +39,7 @@ function eatbreakfasts(item,time){
     console.log("i will eat "+item+" as my breakfast at",+time)
 
 }
-eatbreakfasts("breadjam",10)
+eatbreakfasts("breadjams",10)
 
 
 //when we pass function as a argument
