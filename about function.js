@@ -48,7 +48,7 @@ function breakfast(item,time,dobrush){
     dobrush()
     console.log("i will eat "+item+" as my breakfast at ",+time)
 }; 
-breakfast("bunmakhan",12,dobrush);
+breakfast("bunmakhan",11,dobrush);
 
 function dobrush(){
     console.log("do brush on time");
