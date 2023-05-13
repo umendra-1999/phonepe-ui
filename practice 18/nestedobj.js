@@ -3,7 +3,7 @@ let details={
     age:24,
     address:{
         city:"mumbai",
-        street:"456",
+        street:"46",
         house:"400",
         pin:"45912"
     }
