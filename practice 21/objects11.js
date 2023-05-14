@@ -6,7 +6,7 @@ let empdata=[
 ];
 for(let i=0;i<=empdata.length-1;i++){
     let obj=empdata[i];
-    if(obj["location"]=="delhi"){
+    if(obj["location"]=="mumbai"){
         console.log(obj["name"]);
     }
 }
