@@ -19,7 +19,7 @@ console.log(arr)
 
 let amazon=[
     {name:"iphone12",price:70000,rating:4.5},
-    {name:"mackbook",price:50000,rating:4},
+    {name:"mackbookpro",price:60000,rating:4},
     {name:"airpods",price:6553,rating:3.6},
     {name:"xbox",price:10000,rating:5}
 ]
