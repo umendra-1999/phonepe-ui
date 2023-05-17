@@ -21,7 +21,7 @@ let amazon=[
     {name:"iphone12",price:70000,rating:4.5},
     {name:"mackbookpro",price:60000,rating:4},
     {name:"airpods",price:6553,rating:3.6},
-    {name:"xbox",price:10000,rating:5}
+    {name:"xbox23",price:10000,rating:5}
 ]
 let sum=0;
 for(let j=0;j<=amazon.length-1;j++){
