@@ -6,7 +6,7 @@ function palin(str){
     }
     return news;
 }
-let str=prompt("enter the text ")
+let str=prompt("enter the text below ")
 let rev=palin(str);
 if(str==rev){
     console.log(str,"is palindrome")
