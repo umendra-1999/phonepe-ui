@@ -1,7 +1,7 @@
 
 //print number 1 to 5 in one line
 let r="";
-for(let i=1;i<=5;i++){
+for(let i=1;i<=6;i++){
     r=r+i;
 }
 console.log(r)
