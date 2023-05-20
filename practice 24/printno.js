@@ -10,7 +10,7 @@ console.log(r)
 //print number in horizontal mannner
 
 let k="";
-for(let j=5;j>0;j--){
+for(let j=6;j>0;j--){
     k=k+j;
     // console.log(k) agar ham console ko for loop  ke andar hi likh dete hai to numberprint hoga decreasing order me 
 }
