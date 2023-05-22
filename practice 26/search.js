@@ -1,4 +1,4 @@
-let arr=["earphone","back case","datacable","charger"]
+let arr=["earphone","cover","datacable","charger"]
 let search=prompt("enter the product you want to search")
 let present;
 
