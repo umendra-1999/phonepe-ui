@@ -12,8 +12,8 @@ for(let i=0;i<=arr.length-1;i++){
     }
 }
 if(present==null){
-    console.log(present,"not found")
+    console.log(present,"not search")
 }
 else{
-    console.log(present,"found")
+    console.log(present,"search")
 }
