@@ -11,7 +11,7 @@ console.log("obj2",obj2);
 
 
 let obj3={
-  name2:'aryan',
+  name2:'aryanpratap',
   age:43,
   class:9,
   hobbiss:['tracking','riding'],
