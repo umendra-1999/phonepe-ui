@@ -1,5 +1,5 @@
 let obj={
-    name:'arjun',
+    name:'arjunsingh',
     age:24,
     hobbies:['football','volleyball'],
     roll:'asistant'
