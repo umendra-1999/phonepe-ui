@@ -14,7 +14,7 @@ let obj3={
   name2:'aryanpratap',
   age:43,
   class:9,
-  hobbiss:['tracking','riding'],
+  hobbiss:['tracking','horseriding'],
 
 }
 obj3.hobbiss='football';
