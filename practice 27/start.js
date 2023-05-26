@@ -6,7 +6,7 @@ let obj={
 }
 
 let obj2=obj;
-obj2.name='satish';
+obj2.name='satishkumar';
 console.log("obj2",obj2);
 
 
