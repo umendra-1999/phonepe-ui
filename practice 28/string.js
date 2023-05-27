@@ -25,7 +25,7 @@
 
 //another way to do thus coding
 
-let strr="donald";
+let strr="donaldduck";
 let new_strr="";
 
 for(let i=0;i<=strr.length-1;i++){
