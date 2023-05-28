@@ -4,7 +4,7 @@ if(light=="red"){
     console.log("stop")
 }
 else if(light=="yellow"){
-    console.log("wait")
+    console.log("ready")
 }
 else if(light=="green"){
     console.log("go")
