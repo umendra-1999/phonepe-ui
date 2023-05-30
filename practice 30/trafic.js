@@ -7,7 +7,7 @@ else if(light=="yellow"){
     console.log("ready")
 }
 else if(light=="green"){
-    console.log("go")
+    console.log("gone")
 }
 else{
     alert("the trafic light is not working properly")
