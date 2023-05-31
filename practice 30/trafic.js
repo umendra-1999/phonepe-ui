@@ -21,7 +21,7 @@ let price=Number.parseInt(prompt("enter the price"))
 if(price<="789"){
     console.log("discount of 20%")
 }
- else if(price<="999"||price>="1200"){
+ else if(price<="1999"||price>="1200"){
     console.log("discount of 40%")
  }
  else if(price>=50){
