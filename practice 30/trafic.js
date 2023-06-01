@@ -22,7 +22,7 @@ if(price<="789"){
     console.log("discount of 20%")
 }
  else if(price<="1999"||price>="1200"){
-    console.log("discount of 40%")
+    console.log("discount of 60%")
  }
  else if(price>=50){
     console.log("no discount")
