@@ -1,6 +1,6 @@
 let container=document.getElementById("container");
 let res;
-async function jwell(){
+async function jwelle(){
     try{
     let data=await fetch('https://fakestoreapi.com/products/category/jewelery');
     
@@ -15,7 +15,7 @@ async function jwell(){
 };
 
 }
-jwell();
+jwelle();
 
   function appendproducts(res){
       container.innerHTML=null;
