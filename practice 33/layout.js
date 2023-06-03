@@ -1,4 +1,4 @@
-let images_link=[
+let images_links=[
     "https://couponswala.com/blog/wp-content/uploads/2022/08/flipkart-dussehra-sale-.png",
 
     "https://trak.in/wp-content/uploads/2020/10/IMG_20201022_160443.jpg",
@@ -21,17 +21,17 @@ let crauser=document.getElementById("crauser");
 let imagestate=0;
 rightbtn.addEventListener("click",function(){
     imagestate++;
-    if(imagestate===images_link.length){
+    if(imagestate===images_links.length){
         imagestate=0;
     }
 
-     crauser.src=images_link[imagestate];
+     crauser.src=images_links[imagestate];
 })
 
 leftbtn.addEventListener("click" ,function(){
     imagestate--;
     if(imagestate<0){
-        imagestate=images_link.length-1;
+        imagestate=images_links.length-1;
     }
-    crauser.src=images_link[imagestate];
+    crauser.src=images_links[imagestate];
 })
