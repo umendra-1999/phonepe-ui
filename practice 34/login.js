@@ -7,5 +7,5 @@ function functionlogin(){
 
 function funcotp(){
     let pin=document.getElementById("otp")
-    alert("OTP send to your mobile number")
+    alert("OTP send  your mobile number")
 }
