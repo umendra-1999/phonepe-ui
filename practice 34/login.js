@@ -1,6 +1,6 @@
 function functionlogin(){
     let log=document.getElementById("btn")
-    alert("login successful")
+    alert("login successfully")
 }
 
 
