@@ -4,9 +4,9 @@ let data;
 
 async function getdata(){
     
-    let x=await fetch('http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline');
+    let m=await fetch('http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline');
 
-    data = await x.json()
+    data = await m.json()
     console.log('data:',data);
 
 appendpro(data);
